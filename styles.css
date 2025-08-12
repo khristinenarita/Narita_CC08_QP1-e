@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 2vw;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+.header{
+    border: 2px solid black;
+}
+
+h1{
+    font-size: 5vh;
+    color: rgb(158, 26, 92) ;
+    border: 2px solid black;
+    margin-bottom: 1vh;
+    text-align: center;
+}
+
+.navbar{
+    border: 2px solid black;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.tunga{
+    border: 2px solid rgb(196, 156, 190);
+    height: 40vh;
+}
+
+.artikol{
+    border: 2px solid rgb(70, 58, 69);
+    height: 40vh;
+    width: 70vw;
+    float: left;
+}
+
+.asayd{
+    border: 2px solid black;
+    height: 40vh;
+    width: 30vh;
+    float: right;
+    
+}
+
+
+
+.ubos{
+    margin-top: 2vh
+}
+
+.isa{
+    border: 2px solid rgb(29, 245, 227);
+    height: 20vh;
+    width: 45vw;
+    float: left;
+
+}
+
+.duha{
+    border: 2px solid rgb(253, 78, 180);
+    height: 20vh;
+    width: 45vw;
+    float: right;
+
+}
+
+.tiil{
+    margin-top: 25vh;
+    height: 15vh;
+
+    border: 2px solid rgb(133, 145, 255)
+}
